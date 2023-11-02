@@ -1,0 +1,18 @@
+.guessInput {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.guessButton {
+    margin-top: 0.5em;
+}
+
+.youWon {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.youLost {
+    width: 80%;
+    margin: 0 auto;
+}
