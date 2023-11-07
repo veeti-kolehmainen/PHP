@@ -11,10 +11,10 @@
 <div class="row">
     <table class="border border-3">
         <tr class="border border-bottom-1">
-            <th>KahviID</th>
-            <th>Kahvi</th>
-            <th>Paahtimo</th>
-            <th>Paahtoaste</th>
+            <th>AutoID</th>
+            <th>Auto</th>
+            <th>Varastossa</th>
+            <th>Myyty</th>
             <th>Muokkaa</th>
             <th>Poista</th>
         </tr>
